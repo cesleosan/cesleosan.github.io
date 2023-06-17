@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lowpoly fossils - 1
+* source:	https://sketchfab.com/3d-models/lowpoly-fossils-1-3d1161a5db4244e486de6de0c66f759c
+* author:	Loïc Norgeot (https://sketchfab.com/norgeotloic)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lowpoly fossils - 1" (https://sketchfab.com/3d-models/lowpoly-fossils-1-3d1161a5db4244e486de6de0c66f759c) by Loïc Norgeot (https://sketchfab.com/norgeotloic) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
